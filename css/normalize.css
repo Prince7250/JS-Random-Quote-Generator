@@ -56,19 +56,14 @@ abbr[title] {
   border-bottom: 1px dotted;
 }
 
-
-
 b,
 strong {
   font-weight: bold;
 }
 
-
 dfn {
   font-style: italic;
 }
-
-
 
 h1 {
   font-size: 2em;
@@ -85,7 +80,6 @@ mark {
 small {
   font-size: 80%;
 }
-
 
 
 sub,
